@@ -14,10 +14,10 @@
 
 ## Usage Practice
 
-- [an example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
+- [chain of thought prompting](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html), uses chain of thought and general knowledge prompting with ChatGPT when writing self-testing code; Xu Hao, Martin Fowler
 
 ## Think
 
 - [ChatGPT哲学之谜](https://mp.weixin.qq.com/s/b6icSbY2OA7BAVbuR8DhCw), 老喻
-- [GPT、科技、人类的生产、知识与未来（上）](https://mp.weixin.qq.com/s/EKwKoMLCR25CqQVFrEuEgg)
-- [六种困境：GPT、科技、人类的生产、知识与未来（下）](https://mp.weixin.qq.com/s/vegZOl7ZoZBRDxS-gTqfAQ)
+- [GPT、科技、人类的生产、知识与未来（上）](https://mp.weixin.qq.com/s/EKwKoMLCR25CqQVFrEuEgg), 兔主席
+- [六种困境：GPT、科技、人类的生产、知识与未来（下）](https://mp.weixin.qq.com/s/vegZOl7ZoZBRDxS-gTqfAQ), 兔主席
