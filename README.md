@@ -11,3 +11,13 @@
 
 - [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4), Enhancing Vision-language Understanding with Advanced Large Language Models
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT), Auto-GPT is an experimental open-source application showcasing the capabilities of the GPT-4 language model. This program, driven by GPT-4, chains together LLM "thoughts", to autonomously achieve whatever goal you set. As one of the first examples of GPT-4 running fully autonomously, Auto-GPT pushes the boundaries of what is possible with AI.
+
+## Usage Practice
+
+- [an example of LLM prompting for programming](https://martinfowler.com/articles/2023-chatgpt-xu-hao.html)
+
+## Think
+
+- [ChatGPT哲学之谜](https://mp.weixin.qq.com/s/b6icSbY2OA7BAVbuR8DhCw), 老喻
+- [GPT、科技、人类的生产、知识与未来（上）](https://mp.weixin.qq.com/s/EKwKoMLCR25CqQVFrEuEgg)
+- [六种困境：GPT、科技、人类的生产、知识与未来（下）](https://mp.weixin.qq.com/s/vegZOl7ZoZBRDxS-gTqfAQ)
